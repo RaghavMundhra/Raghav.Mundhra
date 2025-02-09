@@ -15,7 +15,6 @@ redirect_from:
  I'm fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul. 
           
  An 'engineer' by qualification, but I'm still in the process of learning and exploring engineering and eager to do some real hands on engineering using first principles to create exciting and meaningful machines. I'm highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
-<br>
  
 Work Experience
 ======
