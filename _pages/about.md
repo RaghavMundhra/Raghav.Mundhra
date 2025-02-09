@@ -24,7 +24,7 @@ redirect_from:
 My research interests include the areas of Millimeter Wave Sensing, FMCW Radars, HCI, Next generation cellular networks, Embedded systems, IoT, UAV, etc.-->
 
 
-Primary Research Experience
+Work Experience
 ======
 1. Experience with mmWave and acoustic FMCW signal processing techniques. I have used mmWave and accoustic FMCW  sensors for localization, tracking and activity recognition of humans under indoor environments.
 1. Hands-on experience in hardware prototyping including circuit design, circuit debugging, deployment. Developed prototype hardwares for Embedded Pollution Sensors mounted on a drone for air quality assesment. 
