@@ -21,38 +21,38 @@ redirect_from:
 Work Experience
 ======
 
- - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]**
+ - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]**  
    
- -  **_Aircraft Performance Modeling, RnT Team_**
-    - Involved in the **development of the new aerodynamic model** for aircraft performance to be used for the design of future aircrafts.
-    - Grasped the **aero data modeling** philosophy for aircraft performance and analysed the performance for the **take-off and climb phase**.
-    - Generated trim point data using in-house tools to analyse the effect of the various conditions on aircraft performance for **A321 XLR**.
-    - Worked on a Python data analysis pipeline to model the trimmed aero data for **aerial and ground phase performance calculations**.
-    - Demonstrated the accuracy of the model for the climb phases and figured out the inadequacies in the model for take off phases.
-    - Supporting the model development for performance calculations for **eAction**.
+   -  **_Aircraft Performance Modeling, RnT Team_**  
+      - Involved in the **development of the new aerodynamic model** for aircraft performance to be used for the design of future aircrafts.
+      - Grasped the **aero data modeling** philosophy for aircraft performance and analysed the performance for the **take-off and climb phase**.
+      - Generated trim point data using in-house tools to analyse the effect of the various conditions on aircraft performance for **A321 XLR**.
+      - Worked on a Python data analysis pipeline to model the trimmed aero data for **aerial and ground phase performance calculations**.
+      - Demonstrated the accuracy of the model for the climb phases and figured out the inadequacies in the model for take off phases.
+      - Supporting the model development for performance calculations for **eAction**.  
+          
+   - **_Aircraft Performance Data Production Focal_**  
+      - Responsible for creating **DO 200 standard aeronautical databases** used by airlines for flight planning and performance calculations.
+      - Managing the transverse project of **delivering aircraft performance data** to airlines; co-ordinating tasks with stakeholders and suppliers.  
+       
+   - **_Analysis of Aircraft Inservice Data to Improve the Performance in Icing Conditions_**  
+      - Collaborated with **Aerodynamics** and **Propulsion** teams and launched the project to study the **effect of icing on aircraft performance**.
+      - Involved in the ideation and scoping of the problem statement through discussions with stakeholders and experts in the domain.
+      - Member of the interview panel to select an intern for this project.
+      - **Mentored an intern** to analyse the available inservice data.
+      - The outcome of the internship showed promising results and scope for improving the performance of **Ice Protection Systems**.  
       
- - **_Aircraft Performance Data Production Focal_**
-    - Responsible for creating **DO 200 standard aeronautical databases** used by airlines for flight planning and performance calculations.
-    - Managing the transverse project of **delivering aircraft performance data** to airlines; co-ordinating tasks with stakeholders and suppliers.
-   
- - **_Analysis of Aircraft Inservice Data to Improve the Performance in Icing Conditions_**
-    - Collaborated with **Aerodynamics** and **Propulsion** teams and launched the project to study the **effect of icing on aircraft performance**.
-    - Involved in the ideation and scoping of the problem statement through discussions with stakeholders and experts in the domain.
-    - Member of the interview panel to select an intern for this project.
-    - **Mentored an intern** to analyse the available inservice data.
-    - The outcome of the internship showed promising results and scope for improving the performance of **Ice Protection Systems**.
+        
+- **Project Assistant, Mech. Engg. Dept., IIT Kharagpur [Aug 2019 - Aug 2021]**  
   
-      
-- **Project Assistant, Mech. Engg. Dept., IIT Kharagpur [Aug 2019 - Aug 2021]**
-
-  _**The study of flow, turbulence and heat transfer enhancement in a near wall bubbly flow (DST Funded Indo-Russian Project)**_
-    -** High Speed Photography (≈ 1000 fps)** of the trajectory of air bubbles and kerosene droplets rising near inclined walls in still water.
-    - Led the design of experiments, setup fabrication, created an Image Processing workflow in **imageJ** and **MATLAB** for flow analysis.
-    - Obtained a regime map (for different wall inclination: **45° - 120°** and bubble wall distance) of the different observed trajectories.
-    - The transition angles for the change in bubble behavior was also extrapolated from the experimental dataset.
-    - The work was accepted for **Oral Presentation in APS DFD 2022**.
-
-
+    _**The study of flow, turbulence and heat transfer enhancement in a near wall bubbly flow (DST Funded Indo-Russian Project)**_  
+      -** High Speed Photography (≈ 1000 fps)** of the trajectory of air bubbles and kerosene droplets rising near inclined walls in still water.
+      - Led the design of experiments, setup fabrication, created an Image Processing workflow in **imageJ** and **MATLAB** for flow analysis.
+      - Obtained a regime map (for different wall inclination: **45° - 120°** and bubble wall distance) of the different observed trajectories.
+      - The transition angles for the change in bubble behavior was also extrapolated from the experimental dataset.
+      - The work was accepted for **Oral Presentation in APS DFD 2022**.  
+  
+  
 
 Projects 
 ======
