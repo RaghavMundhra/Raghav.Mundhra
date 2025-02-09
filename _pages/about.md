@@ -55,7 +55,6 @@ Work Experience
    
 Projects 
 ======
-
 - **Analysis of Single Bubble Rising Near a Vertical Wall in Still Liquid using OpenFOAM (MS Thesis) [Sept 2021 - Apr 2023]**  <br>
   - **3D VOF simulations** for a **1mm air bubble** rising near a vertical wall in still water for a range of bubble wall distances and Eo numbers.
   - **CFD** Workflow in **PARAM Shakti HPC** cluster of IIT Kharagpur, grid independence study and validation of the case setup with literature.
@@ -86,7 +85,7 @@ Technical Skills
 ======
 
 - **Technical:** Experimental Techniques, CFD, Mathematical Modeling, Image Processing, Optimization, Machine Learning, Numerical Analysis. <br>
--** Modeling and Analysis**: ANSYS Fluent, OpenFOAM, Solidworks*, AutoCAD*, Flow and Thermal Analysis. <br>
+- **Modeling and Analysis**: ANSYS Fluent, OpenFOAM, Solidworks*, AutoCAD*, Flow and Thermal Analysis. <br>
 - **Programming Languages**: Python, MATLAB, C++*, Fortran* ; Data Analysis: NumPy, Pandas, Seaborn. <br>
 - **Subject Knowledge**: Thermodynamics, Heat Transfer, Thermal System Design and Combustion*, Gas Turbines*; Fluid Mechanics, Aerodynamics, Turbulence*, Multiphase flow and CFD; Control Systems*, Propulsion and Flight Mechanics, Engineering Mechanics. <br>
 - **Misc.**: MS Office, LaTeX, Technical Writing. <br>
