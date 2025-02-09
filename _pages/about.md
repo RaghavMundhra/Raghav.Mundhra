@@ -10,7 +10,7 @@ redirect_from:
 
  I'm currently an Associate Flight Physics Engineer at <a href="https://www.airbus.com/en">Airbus, India</a> where I work on the development of the new aerodynamic model for aircraft performance calculations to be used for the design of future aircrafts.
 
-I completed my Bachelor's in Engineering from Jadavpur University in [Mechnanical Engineering](https://jadavpuruniversity.in/academics/mechanical-engineering/) in 2019. To further learn about thermofluids, I pursued a Masters in Science (by Research) degree in [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) under the supervision of Prof. [ Prasanta Kumar Das](https://www.iitkgp.ac.in/department/ME/faculty/me-pkd) in Heat Trasfer, Complex Fluids and Multiphase Flow Laboratory. 
+ I completed my Bachelor's in Engineering from Jadavpur University in [Mechnanical Engineering](https://jadavpuruniversity.in/academics/mechanical-engineering/) in 2019. To further learn about thermofluids, I pursued a Masters in Science (by Research) degree in the department of Mechnanical Engineering in [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) under the supervision of Prof. [Prasanta Kumar Das](https://www.iitkgp.ac.in/department/ME/faculty/me-pkd) in Heat Trasfer, Complex Fluids and Multiphase Flow Laboratory. 
 
  I'm fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul. 
           
