@@ -25,7 +25,7 @@ Work Experience
    
  -  **_Aircraft Performance Modeling, RnT Team_**
     - Involved in the **development of the new aerodynamic model** for aircraft performance to be used for the design of future aircrafts.
-    - Grasped the** aero data modeling** philosophy for aircraft performance and analysed the performance for the **take-off and climb phase**.
+    - Grasped the **aero data modeling** philosophy for aircraft performance and analysed the performance for the **take-off and climb phase**.
     - Generated trim point data using in-house tools to analyse the effect of the various conditions on aircraft performance for **A321 XLR**.
     - Worked on a Python data analysis pipeline to model the trimmed aero data for **aerial and ground phase performance calculations**.
     - Demonstrated the accuracy of the model for the climb phases and figured out the inadequacies in the model for take off phases.
