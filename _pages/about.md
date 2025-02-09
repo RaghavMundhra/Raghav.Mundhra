@@ -55,7 +55,7 @@ Work Experience
    
 Projects 
 ======
- <br>
+
 - **Analysis of Single Bubble Rising Near a Vertical Wall in Still Liquid using OpenFOAM (MS Thesis) [Sept 2021 - Apr 2023]**  <br>
   - **3D VOF simulations** for a **1mm air bubble** rising near a vertical wall in still water for a range of bubble wall distances and Eo numbers.
   - **CFD** Workflow in **PARAM Shakti HPC** cluster of IIT Kharagpur, grid independence study and validation of the case setup with literature.
@@ -84,7 +84,7 @@ Projects
   
 Technical Skills 
 ======
- <br>
+
 - **Technical:** Experimental Techniques, CFD, Mathematical Modeling, Image Processing, Optimization, Machine Learning, Numerical Analysis. <br>
 -** Modeling and Analysis**: ANSYS Fluent, OpenFOAM, Solidworks*, AutoCAD*, Flow and Thermal Analysis. <br>
 - **Programming Languages**: Python, MATLAB, C++*, Fortran* ; Data Analysis: NumPy, Pandas, Seaborn. <br>
@@ -94,6 +94,7 @@ Technical Skills
 
 Education
 ======
+
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="http://iitkgp.ac.in/"> <strong>Indian Institute of Technology Kharagpur </strong></a> <span style="float: right; ">2020 - 2023</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Masters of Science (Research) in Department of Mechanical Engineering (Thermal) <span style="float: right; ">(9.76 CGPA)</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://jadavpuruniversity.in/"> <strong>Jadavpur University </strong></a> <span style="float: right; ">2015 - 2019</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Bachelor's of Engineering in Department of Mechanical Engineering <span style="float: right; ">7.56 CGPA</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://birlahighschool.com/"> <strong>Higher Secondary School </strong></a> <span style="float: right; ">2014 - 2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Birla High School, Kolkata <span style="float: right; ">95.4%</span></p><hr />
@@ -101,7 +102,7 @@ Education
 
 Position of Responsibility
 ======
- <br>
+ 
 - **Aircraft Data Production Focal (Airbus)** <br>
   - Managing the transverse project of delivering aircraft performance data to airlines. <br> <br>
 - **Mentor**
@@ -114,7 +115,7 @@ Position of Responsibility
 
 Extracurricular
 ======
- <br>
+
 - Pitched several innovative ideas for improving product performance and the company’s operations. 
   - One of the ideas was selected in the **Top 12 in Airbus Dragon’s Den** in 2023.  <br> <br>
 - Participated in **Flight Physics Digital Enablers Hackathon** conducted by Airbus.
