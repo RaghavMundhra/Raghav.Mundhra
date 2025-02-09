@@ -54,6 +54,13 @@ Work Experience
   
  <br> <br> <br> <br>  
 
+ - **NIUS Physics Scholar at Homi Bhabha Centre for Science Education (HBCSE), TIFR [June 2016 - July 2016]**
+   <br> <br>
+   - Worked to conduct a survey in **Optical Activity of Chiral Media**.
+   - **Physics exposure camp** for bright undergraduate students from renowned experts in India about in-depth topics of Physics.
+
+   <br> <br> <br> <br>
+   
 Projects 
 ======
  <br> <br>
