@@ -46,7 +46,7 @@ Work Experience
 - **Project Assistant, Mech. Engg. Dept., IIT Kharagpur [Aug 2019 - Aug 2021]**  
    <br> <br>
     _**The study of flow, turbulence and heat transfer enhancement in a near wall bubbly flow (DST Funded Indo-Russian Project)**_  
-      -** High Speed Photography (≈ 1000 fps)** of the trajectory of air bubbles and kerosene droplets rising near inclined walls in still water.
+      - **High Speed Photography (≈ 1000 fps)** of the trajectory of air bubbles and kerosene droplets rising near inclined walls in still water.
       - Led the design of experiments, setup fabrication, created an Image Processing workflow in **imageJ** and **MATLAB** for flow analysis.
       - Obtained a regime map (for different wall inclination: **45° - 120°** and bubble wall distance) of the different observed trajectories.
       - The transition angles for the change in bubble behavior was also extrapolated from the experimental dataset.
