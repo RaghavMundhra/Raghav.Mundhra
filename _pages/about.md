@@ -36,8 +36,8 @@ Education
 ======
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="http://iitkgp.ac.in/"> <strong>Indian Institute of Technology Kharagpur </strong></a> <span style="float: right; ">2020 - 2023</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Masters of Science (Research) in Department of Mechanical Engineering (Thermal) <span style="float: right; ">(9.76 CGPA)</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://nitdgp.ac.in/"> <strong>Jadavpur University </strong></a> <span style="float: right; ">2015 - 2019</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Bachelor's of Engineering in Department of Mechanical Engineering <span style="float: right; ">7.56 CGPA</span></p><hr />
-* <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://birlahighschool.com/"> <strong>Higher Secondary School</strong> <span style="float: right; ">2014-2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Birla High School, Kolkata <span style="float: right; ">95.4%</span></p><hr />
-* <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://www.staloysiushowrah.com/"> <strong>Secondary School</strong> <span style="float: right; ">2014</span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">St. Aloysius, Howrah <span style="float: right; ">93.1%</span></p>
+* <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://birlahighschool.com/"><strong>Higher Secondary School</strong> <span style="float: right; ">2014-2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Birla High School, Kolkata <span style="float: right; ">95.4%</span></p><hr />
+* <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://www.staloysiushowrah.com/"><strong>Secondary School</strong> <span style="float: right; ">2014</span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">St. Aloysius, Howrah <span style="float: right; ">93.1%</span></p>
 
 Achievements
 ======
