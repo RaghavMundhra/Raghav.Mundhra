@@ -10,12 +10,11 @@ redirect_from:
 
  I'm currently an Associate Flight Physics Engineer at <a href="https://www.airbus.com/en">Airbus, India</a> where I work on the development of the new aerodynamic model for aircraft performance calculations to be used for the design of future aircrafts.
 
-I completed my Bachelor's in Engineering from Jadavpur University in [Mechnanical Engineering](https://jadavpuruniversity.in/academics/mechanical-engineering/) in 2019. To further learn about thermofluids, I pursued a Masters in Science (by Research) degree in [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) under the supervision of Prof. [ Prasanta Kumar Das](https://www.iitkgp.ac.in/department/ME/faculty/me-pkd) in Heat Trasfer, Complex Fluids and Multiphase Flow Laboratory.
-          
+I completed my Bachelor's in Engineering from Jadavpur University in [Mechnanical Engineering](https://jadavpuruniversity.in/academics/mechanical-engineering/) in 2019. To further learn about thermofluids, I pursued a Masters in Science (by Research) degree in [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/) under the supervision of Prof. [ Prasanta Kumar Das](https://www.iitkgp.ac.in/department/ME/faculty/me-pkd) in Heat Trasfer, Complex Fluids and Multiphase Flow Laboratory. 
 
-I'm fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul. 
+ I'm fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul. 
           
-An 'engineer' by qualification, but I'm still in the process of learning and exploring engineering and eager to do some real hands on engineering using first principles to create exciting and meaningful machines. I'm highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
+ An 'engineer' by qualification, but I'm still in the process of learning and exploring engineering and eager to do some real hands on engineering using first principles to create exciting and meaningful machines. I'm highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
           
 
 <!-- I am currently a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, West Bengal. I am pursuing my Ph.D. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/). I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). 
