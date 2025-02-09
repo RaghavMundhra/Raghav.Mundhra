@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul!
-
-
-An "engineer"( by qualification) still in the process of learning and exploring engineering.
-
-
-Eager to do some real hands on engineering using first principles to create exciting and meaningful machines.
-
-
-Highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
+ I'm currently an Associate Flight Physics Engineer at <a href="https://www.airbus.com/en">Airbus, India</a> where I work on 
+         the development of the new aerodynamic model for aircraft performance calculations to be used for the design of future aircrafts. 
+          I completed my Bachelor's in Engineering from Jadavpur University in <a href="https://jadavpuruniversity.in/academics/mechanical-engineering/">
+            Mechnanical Engineering</a> in 2019. To further learn about thermofluids, I pursued a Masters in Science (by Research) degree in 
+          <a href="https://www.iitkgp.ac.in/">Indian Institute of Technology, Kharagpur under the supervision of Prof. 
+          <a href="https://www.iitkgp.ac.in/department/ME/faculty/me-pkd">Prasanta Kumar Das</a> in Heat Trasfer, Complex Fluids and Multiphase Flow Laboratory.
+          
+          I'm fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul. 
+          
+          An "engineer" by qualification, but I'm still in the process of learning and exploring engineering and eager to do some real hands on engineering using first principles to create exciting and meaningful machines.
+          I'm highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
+          
 
 <!-- I am currently a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, West Bengal. I am pursuing my Ph.D. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/). I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). 
 
