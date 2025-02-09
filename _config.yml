@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Portfolio"
 title_separator          : "-"
-name                     : &name "Argha Sen"
+name                     : &name "Raghav Mundhra"
 description              : &description "personal website"
-url                      : https://arghasen10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://raghavmundhra.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arghasen10/arghasen10.github.io"
+repository               : "RaghavMundhra/RaghavMundhra.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -60,20 +60,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Argha Sen"
-  avatar           : "argha_sen.jpg"
-  bio              : "Research Scholar at Dept of CSE, IIT KGP"
-  location         : <a href="https://cse.iitkgp.ac.in/resgrp/ubinet/">UbiNet, IIT KGP</a>
-  googlescholar    : "https://scholar.google.com/citations?user=QF2toEoAAAAJ&hl=en"
-  email            : "arghasen10@gmail.com"
-  github           : "arghasen10"
+  name             : "Raghav Mundhra"
+  avatar           : "raghav.png"
+  bio              : "Associate Engineer - Flight Physics, Airbus India"
+  location         : <a href="https://www.airbus.com/en">Airbus</a>
+  googlescholar    : "https://scholar.google.com/citations?user=9jKrOoQAAAAJ&hl=en&oi=ao"
+  email            : "rag.mundhra@gmail.com"
+  github           : "RaghavMundhra"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-1579-8989"
+  linkedin         : "https://www.linkedin.com/in/raghav-mundhra-42570b127/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   steam            :
@@ -81,7 +81,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@RaghavMundhraScience"
   wikipedia        :
 
 
@@ -91,9 +91,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conferences (Main Track)'
-  posters:
-    title: 'Conferences (Posters/Workshops/Demos)'
+    title: 'Conferences'
+  # posters:
+  #   title: 'Conferences (Posters/Workshops/Demos)'
 
 # Reading Files
 include:
