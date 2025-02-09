@@ -16,12 +16,12 @@ redirect_from:
           
  An 'engineer' by qualification, but I'm still in the process of learning and exploring engineering and eager to do some real hands on engineering using first principles to create exciting and meaningful machines. I'm highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
 
- <br> <br> <br> <br>
+ <br> <br> 
 
 Work Experience
 ======
 
- - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]** <br><br>
+ - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]** <br>
    
    -  **_Aircraft Performance Modeling, RnT Team_**  <br>
       - Involved in the **development of the new aerodynamic model** for aircraft performance to be used for the design of future aircrafts.
@@ -30,21 +30,21 @@ Work Experience
       - Worked on a Python data analysis pipeline to model the trimmed aero data for **aerial and ground phase performance calculations**.
       - Demonstrated the accuracy of the model for the climb phases and figured out the inadequacies in the model for take off phases.
       - Supporting the model development for performance calculations for **eAction**.  
-         <br> <br> <br>
+         <br> <br>
    - **_Aircraft Performance Data Production Focal_**  
       - Responsible for creating **DO 200 standard aeronautical databases** used by airlines for flight planning and performance calculations.
       - Managing the transverse project of **delivering aircraft performance data** to airlines; co-ordinating tasks with stakeholders and suppliers.  
-        <br> <br> <br>
+        <br> <br>
    - **_Analysis of Aircraft Inservice Data to Improve the Performance in Icing Conditions_**  
       - Collaborated with **Aerodynamics** and **Propulsion** teams and launched the project to study the **effect of icing on aircraft performance**.
       - Involved in the ideation and scoping of the problem statement through discussions with stakeholders and experts in the domain.
       - Member of the interview panel to select an intern for this project.
       - **Mentored an intern** to analyse the available inservice data.
       - The outcome of the internship showed promising results and scope for improving the performance of **Ice Protection Systems**.  
-       <br> <br> <br> <br>
+       <br> <br> <br>
         
 - **Project Assistant, Mech. Engg. Dept., IIT Kharagpur [Aug 2019 - Aug 2021]**  
-   <br> <br>
+   <br>
     _**The study of flow, turbulence and heat transfer enhancement in a near wall bubbly flow (DST Funded Indo-Russian Project)**_  
       - **High Speed Photography (≈ 1000 fps)** of the trajectory of air bubbles and kerosene droplets rising near inclined walls in still water.
       - Led the design of experiments, setup fabrication, created an Image Processing workflow in **imageJ** and **MATLAB** for flow analysis.
@@ -52,49 +52,49 @@ Work Experience
       - The transition angles for the change in bubble behavior was also extrapolated from the experimental dataset.
       - The work was accepted for **Oral Presentation in APS DFD 2022**.  
   
- <br> <br> <br> <br>  
+ <br> <br> <br> 
 
  - **NIUS Physics Scholar at Homi Bhabha Centre for Science Education (HBCSE), TIFR [June 2016 - July 2016]**
-   <br> <br>
+   <br> 
    - Worked to conduct a survey in **Optical Activity of Chiral Media**.
    - **Physics exposure camp** for bright undergraduate students from renowned experts in India about in-depth topics of Physics.
 
-   <br> <br> <br> <br>
+   <br> <br> <br>
    
 Projects 
 ======
- <br> <br>
-- **Analysis of Single Bubble Rising Near a Vertical Wall in Still Liquid using OpenFOAM (MS Thesis) [Sept 2021 - Apr 2023]**  <br> <br>
+ <br>
+- **Analysis of Single Bubble Rising Near a Vertical Wall in Still Liquid using OpenFOAM (MS Thesis) [Sept 2021 - Apr 2023]**  <br>
   - **3D VOF simulations** for a **1mm air bubble** rising near a vertical wall in still water for a range of bubble wall distances and Eo numbers.
   - **CFD** Workflow in **PARAM Shakti HPC** cluster of IIT Kharagpur, grid independence study and validation of the case setup with literature.
   - The maximum wall distance and the **critical Eo number** for the bubble to follow a bouncing trajectory was identified.
   - The **characteristics of the bouncing motion** are independent of the initial wall distance, but they vary linearly with surface tension.
   - This work was accepted for publication in **Open Access SCI Indexed journal**
- <br> <br> <br>
-- **Design, Analysis and Performance Enhancement of Rocket Engines [Jun 2022 - Nov 2022]** <br> <br>
+ <br> <br>
+- **Design, Analysis and Performance Enhancement of Rocket Engines [Jun 2022 - Nov 2022]** <br> 
   - Calculated the overall sizing of the thrust chamber and nozzle dimensions for a **10 kN LOX-LNG Cryogenic Rocket Engine**.
   - Used the **NASA CEA Tool** to find the optimum mixture ratio, specific impulse, propellant mass flow rate and other parameters.
   - Proposed fractal geometries for grain design of **solid rocket motors** and analysed their performance using OpenMotor.
   - The new grain design had a significant high initial thrust and also **reduced the sliver by 41.4%** compared to the standard designs.
   - The research on the new grain designs was accepted for publication in **Heat Transfer Engineering**.
- <br> <br> <br>
-- **Experimental and Numerical Study of Turbulent Air Flow Through a Sudden Expansion Pipe [Jul 2018 - Sep 2019]**  <br> <br>
+ <br> <br>
+- **Experimental and Numerical Study of Turbulent Air Flow Through a Sudden Expansion Pipe [Jul 2018 - Sep 2019]**  <br> 
   - Experimentally measured the **velocity profile** using a pitot tube probe both upstream and downstream of the sudden expansion region.
   - Experiments were carried out for **axisymmetric case** and asymmetric case by placing baffles in the flow field.
   - **2D simulations** were performed using **ANSYS Fluent** to compare with the experiments and analyse the flow field details.
   - Accepted for **Oral Presentation** at **IHMTC-2019** held at **IIT Roorkee, India**.
- <br> <br> <br>
-- **Thermoecological Analysis and Optimization of a Reversed Brayton Cycle Heat Pump [Jun 2018 - Jun 2019]**  <br> <br>
+ <br> <br> 
+- **Thermoecological Analysis and Optimization of a Reversed Brayton Cycle Heat Pump [Jun 2018 - Jun 2019]**  <br>
   - Made a thermodynamic model for an **Irreversible Reversed Brayton Cycle Heat Pump** considering various irreversibilities in the system.
   - Developed **MATLAB** code for calculation and optimization of important thermodynamic parameters.
   - Published in **Advances in Mechanical Engineering: The selected Proceedings of ICRIDME 2018**.
   - Accepted for **Oral Presentation** at **IHMTC-2019** held at **IIT Roorkee, India**.
- <br> <br> <br> <br>
+ <br> <br> <br>
 
   
 Technical Skills 
 ======
- <br> <br>
+ <br>
 - **Technical:**Experimental Techniques, CFD, Mathematical Modeling, Image Processing, Optimization, Machine Learning, Numerical Analysis. <br>
 -** Modeling and Analysis**:ANSYS Fluent, OpenFOAM, Solidworks*, AutoCAD*, Flow and Thermal Analysis. <br>
 - **Programming Languages**: Python, MATLAB, C++*, Fortran* ; Data Analysis: NumPy, Pandas, Seaborn. <br>
@@ -102,7 +102,7 @@ Technical Skills
 - **Misc.**:MS Office, LaTeX, Technical Writing. <br>
 - **Soft Skills**:Teaching, Leadership, Project Management, Cross-Team Collaboration.
 
- <br> <br> <br> <br>
+ <br> <br> <br>
 
 Education
 ======
@@ -115,7 +115,7 @@ Education
 
 Position of Responsibility
 ======
- <br> <br>
+ <br>
 - **Aircraft Data Production Focal (Airbus)** <br>
   - Managing the transverse project of delivering aircraft performance data to airlines. <br> <br>
 - **Mentor**
@@ -125,12 +125,12 @@ Position of Responsibility
   - Co-ordinator for **ASME Gas Turbine Seminar** held at Jadavpur University, 2018.  <br> <br>
 - **Mentor**
   - For underprivileged students providing them free tuition as part of **Jadavpur University Science Club (Social)**, 2016.
- <br> <br> <br> <br>
+ <br> <br> <br>
 
 
 Extracurricular
 ======
- <br> <br>
+ <br>
 - Pitched several innovative ideas for improving product performance and the company’s operations. 
   - One of the ideas was selected in the **Top 12 in Airbus Dragon’s Den** in 2023.  <br> <br>
 - Participated in **Flight Physics Digital Enablers Hackathon** conducted by Airbus.
@@ -140,7 +140,7 @@ Extracurricular
 - **Astronomy**: Created my own self funded observatory with 3 different telescopes.
   - Keep conducting and participating regularly in sky gazing events.
   - Continuously learning astronomy through various courses both online and offline.
- <br> <br> <br> <br>
+ <br> <br> <br>
 
 Visit tracker
 ======
