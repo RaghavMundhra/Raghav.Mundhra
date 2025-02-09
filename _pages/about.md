@@ -15,13 +15,12 @@ redirect_from:
  I'm fascinated by machines and the different machineries of nature, following a passion driven path of continuous learning. Physics is the bread and butter for my soul. 
           
  An 'engineer' by qualification, but I'm still in the process of learning and exploring engineering and eager to do some real hands on engineering using first principles to create exciting and meaningful machines. I'm highly motivated to contribute to fundamental research in the areas of Thermodynamics, Combustion, Aerodynamics, Propulsion, Turbulence, High Speed Flows and Astrophysics.
-
- <br>
+<br>
+ 
 Work Experience
 ======
 
  - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]** <br>
-   
    -  **_Aircraft Performance Modeling, RnT Team_**  <br>
       - Involved in the **development of the new aerodynamic model** for aircraft performance to be used for the design of future aircrafts.
       - Grasped the **aero data modeling** philosophy for aircraft performance and analysed the performance for the **take-off and climb phase**.
@@ -40,8 +39,7 @@ Work Experience
       - Member of the interview panel to select an intern for this project.
       - **Mentored an intern** to analyse the available inservice data.
       - The outcome of the internship showed promising results and scope for improving the performance of **Ice Protection Systems**.  
-       <br> <br>
-        
+       <br> <br>  
 - **Project Assistant, Mech. Engg. Dept., IIT Kharagpur [Aug 2019 - Aug 2021]**  
    <br>
     _**The study of flow, turbulence and heat transfer enhancement in a near wall bubbly flow (DST Funded Indo-Russian Project)**_  
@@ -49,15 +47,12 @@ Work Experience
       - Led the design of experiments, setup fabrication, created an Image Processing workflow in **imageJ** and **MATLAB** for flow analysis.
       - Obtained a regime map (for different wall inclination: **45° - 120°** and bubble wall distance) of the different observed trajectories.
       - The transition angles for the change in bubble behavior was also extrapolated from the experimental dataset.
-      - The work was accepted for **Oral Presentation in APS DFD 2022**.  
-  
- <br> <br> 
-
+      - The work was accepted for **Oral Presentation in APS DFD 2022**. 
+ <br> <br>
  - **NIUS Physics Scholar at Homi Bhabha Centre for Science Education (HBCSE), TIFR [June 2016 - July 2016]**
    <br> 
    - Worked to conduct a survey in **Optical Activity of Chiral Media**.
    - **Physics exposure camp** for bright undergraduate students from renowned experts in India about in-depth topics of Physics.
-
    <br> <br>
    
 Projects 
@@ -89,7 +84,6 @@ Projects
   - Published in **Advances in Mechanical Engineering: The selected Proceedings of ICRIDME 2018**.
   - Accepted for **Oral Presentation** at **IHMTC-2019** held at **IIT Roorkee, India**.
  <br> <br> 
-
   
 Technical Skills 
 ======
@@ -100,7 +94,6 @@ Technical Skills
 - **Subject Knowledge**:Thermodynamics, Heat Transfer, Thermal System Design and Combustion*, Gas Turbines*; Fluid Mechanics, Aerodynamics, Turbulence*, Multiphase flow and CFD; Control Systems*, Propulsion and Flight Mechanics, Engineering Mechanics. <br>
 - **Misc.**:MS Office, LaTeX, Technical Writing. <br>
 - **Soft Skills**:Teaching, Leadership, Project Management, Cross-Team Collaboration.
-
  <br> <br> 
 
 Education
@@ -109,8 +102,7 @@ Education
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://jadavpuruniversity.in/"> <strong>Jadavpur University </strong></a> <span style="float: right; ">2015 - 2019</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Bachelor's of Engineering in Department of Mechanical Engineering <span style="float: right; ">7.56 CGPA</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://birlahighschool.com/"> <strong>Higher Secondary School </strong></a> <span style="float: right; ">2014 - 2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Birla High School, Kolkata <span style="float: right; ">95.4%</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://www.staloysiushowrah.com/"><strong>Secondary School </strong></a> <span style="float: right; "> 2014 </span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">St. Aloysius, Howrah <span style="float: right; ">93.1%</span></p>
-
-
+<br> <br>
 
 Position of Responsibility
 ======
@@ -125,7 +117,6 @@ Position of Responsibility
 - **Mentor**
   - For underprivileged students providing them free tuition as part of **Jadavpur University Science Club (Social)**, 2016.
  <br> <br>
-
 
 Extracurricular
 ======
