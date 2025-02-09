@@ -52,7 +52,6 @@ Work Experience
    <br> 
    - Worked to conduct a survey in **Optical Activity of Chiral Media**.
    - **Physics exposure camp** for bright undergraduate students from renowned experts in India about in-depth topics of Physics.
-   <br> <br>
    
 Projects 
 ======
@@ -82,18 +81,16 @@ Projects
   - Developed **MATLAB** code for calculation and optimization of important thermodynamic parameters.
   - Published in **Advances in Mechanical Engineering: The selected Proceedings of ICRIDME 2018**.
   - Accepted for **Oral Presentation** at **IHMTC-2019** held at **IIT Roorkee, India**.
- <br> <br> 
   
 Technical Skills 
 ======
  <br>
-- **Technical:**Experimental Techniques, CFD, Mathematical Modeling, Image Processing, Optimization, Machine Learning, Numerical Analysis. <br>
--** Modeling and Analysis**:ANSYS Fluent, OpenFOAM, Solidworks*, AutoCAD*, Flow and Thermal Analysis. <br>
+- **Technical:** Experimental Techniques, CFD, Mathematical Modeling, Image Processing, Optimization, Machine Learning, Numerical Analysis. <br>
+-** Modeling and Analysis**: ANSYS Fluent, OpenFOAM, Solidworks*, AutoCAD*, Flow and Thermal Analysis. <br>
 - **Programming Languages**: Python, MATLAB, C++*, Fortran* ; Data Analysis: NumPy, Pandas, Seaborn. <br>
-- **Subject Knowledge**:Thermodynamics, Heat Transfer, Thermal System Design and Combustion*, Gas Turbines*; Fluid Mechanics, Aerodynamics, Turbulence*, Multiphase flow and CFD; Control Systems*, Propulsion and Flight Mechanics, Engineering Mechanics. <br>
-- **Misc.**:MS Office, LaTeX, Technical Writing. <br>
-- **Soft Skills**:Teaching, Leadership, Project Management, Cross-Team Collaboration.
- <br> <br> 
+- **Subject Knowledge**: Thermodynamics, Heat Transfer, Thermal System Design and Combustion*, Gas Turbines*; Fluid Mechanics, Aerodynamics, Turbulence*, Multiphase flow and CFD; Control Systems*, Propulsion and Flight Mechanics, Engineering Mechanics. <br>
+- **Misc.**: MS Office, LaTeX, Technical Writing. <br>
+- **Soft Skills**: Teaching, Leadership, Project Management, Cross-Team Collaboration.
 
 Education
 ======
@@ -101,7 +98,6 @@ Education
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://jadavpuruniversity.in/"> <strong>Jadavpur University </strong></a> <span style="float: right; ">2015 - 2019</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Bachelor's of Engineering in Department of Mechanical Engineering <span style="float: right; ">7.56 CGPA</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://birlahighschool.com/"> <strong>Higher Secondary School </strong></a> <span style="float: right; ">2014 - 2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Birla High School, Kolkata <span style="float: right; ">95.4%</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://www.staloysiushowrah.com/"><strong>Secondary School </strong></a> <span style="float: right; "> 2014 </span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">St. Aloysius, Howrah <span style="float: right; ">93.1%</span></p>
-<br> <br>
 
 Position of Responsibility
 ======
@@ -115,7 +111,6 @@ Position of Responsibility
   - Co-ordinator for **ASME Gas Turbine Seminar** held at Jadavpur University, 2018.  <br> <br>
 - **Mentor**
   - For underprivileged students providing them free tuition as part of **Jadavpur University Science Club (Social)**, 2016.
- <br> <br>
 
 Extracurricular
 ======
@@ -129,7 +124,6 @@ Extracurricular
 - **Astronomy**: Created my own self funded observatory with 3 different telescopes.
   - Keep conducting and participating regularly in sky gazing events.
   - Continuously learning astronomy through various courses both online and offline.
- <br> <br>
 
 Visit tracker
 ======
