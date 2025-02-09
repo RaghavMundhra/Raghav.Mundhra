@@ -21,27 +21,27 @@ redirect_from:
 Work Experience
 ======
 
- - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]**  
+ - **Associate Engineer - Flight Physics, Airbus India [July 2023 - Present]** <br><br>
    
-   -  **_Aircraft Performance Modeling, RnT Team_**  
+   -  **_Aircraft Performance Modeling, RnT Team_**  <br>
       - Involved in the **development of the new aerodynamic model** for aircraft performance to be used for the design of future aircrafts.
       - Grasped the **aero data modeling** philosophy for aircraft performance and analysed the performance for the **take-off and climb phase**.
       - Generated trim point data using in-house tools to analyse the effect of the various conditions on aircraft performance for **A321 XLR**.
       - Worked on a Python data analysis pipeline to model the trimmed aero data for **aerial and ground phase performance calculations**.
       - Demonstrated the accuracy of the model for the climb phases and figured out the inadequacies in the model for take off phases.
       - Supporting the model development for performance calculations for **eAction**.  
-          
+         <br>  
    - **_Aircraft Performance Data Production Focal_**  
       - Responsible for creating **DO 200 standard aeronautical databases** used by airlines for flight planning and performance calculations.
       - Managing the transverse project of **delivering aircraft performance data** to airlines; co-ordinating tasks with stakeholders and suppliers.  
-       
+        <br>
    - **_Analysis of Aircraft Inservice Data to Improve the Performance in Icing Conditions_**  
       - Collaborated with **Aerodynamics** and **Propulsion** teams and launched the project to study the **effect of icing on aircraft performance**.
       - Involved in the ideation and scoping of the problem statement through discussions with stakeholders and experts in the domain.
       - Member of the interview panel to select an intern for this project.
       - **Mentored an intern** to analyse the available inservice data.
       - The outcome of the internship showed promising results and scope for improving the performance of **Ice Protection Systems**.  
-      
+       <br> <br> <br>
         
 - **Project Assistant, Mech. Engg. Dept., IIT Kharagpur [Aug 2019 - Aug 2021]**  
   
